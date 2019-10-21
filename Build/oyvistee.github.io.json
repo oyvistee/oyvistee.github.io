@@ -1,10 +1,10 @@
 {
-"companyName": "DefaultCompany",
-"productName": "First Tutorial",
+"companyName": "Steensland Studios",
+"productName": "Homework Assignment 1",
 "dataUrl": "oyvistee.github.io.data.unityweb",
 "wasmCodeUrl": "oyvistee.github.io.wasm.code.unityweb",
 "wasmFrameworkUrl": "oyvistee.github.io.wasm.framework.unityweb",
-"TOTAL_MEMORY": 268435456,
+"TOTAL_MEMORY": 536870912,
 "graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
 "webglContextAttributes": {"preserveDrawingBuffer": false},
 "splashScreenStyle": "Dark",
